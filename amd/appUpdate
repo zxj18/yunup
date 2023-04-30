@@ -1,0 +1,14 @@
+{
+    "appVersionName": "2.4.0",
+    "appVersionCode": 112,
+    "appPackage": "com.wsw.cospa",
+    "appUrl": "https://gitcode.net/NIKWOK/ycy/-/raw/master/异次元-2.4.0.apk",
+    "appSize": 20471895,
+    "appPath": "",
+    "appChangeLog": "1,修复部分图源章节列表出现乱码问题（酷漫屋）。<br>2,修复已知bug,提高稳定性。",
+    "appMd5": "1776e07216c96137ec4089f3502bcffe",
+    "forceUpdate": 0,
+    "topImage": "",
+    "showUpdate": true,
+  	"appName":"异次元-2.4.0.apk"
+}
